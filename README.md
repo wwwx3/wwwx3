@@ -19,14 +19,14 @@
 
 ---
 
-## ✨ Quick Links
+## Quick Links
 - Portfolio / Projects: [github.com/wwwx3](https://github.com/wwwx3)  
 - Email: `winnie.ai@gmail.com` (use your new professional email)  
 - LinkedIn: (add link when you have it)
 
 ---
 
-## 💜 Short Bio
+## Short Bio
 I’m Winnie — I love building hands-on projects in AI, robotics and sustainability. I participate in hackathons and real-world competitions, and I enjoy turning ideas into prototypes that help people.
 
 ---
