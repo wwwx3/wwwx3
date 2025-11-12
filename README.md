@@ -2,8 +2,8 @@
 
 <h1 align="center" style="color:#5b2c6f;">
   <b>www • Hello, I’m Winnie ~!</b>
-  <a href="https://emoji.gg/emoji/7745-moon" title="moon">
-    <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="48" height="48" alt="moon"/>
+  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fis%2Fview%2Fpixel-cat-summer-days-city-twool-gif-12545591469613850331&psig=AOvVaw0oht-wUrswWzfYi-JBYku4&ust=1763003980513000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDqlOLT65ADFQAAAAAdAAAAABAK" title="purple_car">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fis%2Fview%2Fpixel-cat-summer-days-city-twool-gif-12545591469613850331&psig=AOvVaw0oht-wUrswWzfYi-JBYku4&ust=1763003980513000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDqlOLT65ADFQAAAAAdAAAAABAK" width="48" height="48" alt="purple_cat"/>
   </a>
 </h1>
 
