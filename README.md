@@ -8,7 +8,7 @@
 
 
 <p align="center" style="color:#6b4b9a; font-size:14px;">
- AI & Robotics Engineer • Future Macquarie University AI and Cyber security (2026) • Building tech from real problems.
+ AI & Robotics Engineer • Future Macquarie University AI and Cyber security (2026) • 
 </p>
 
 <p align="center">
