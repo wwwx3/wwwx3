@@ -1,11 +1,12 @@
 <!-- ===== Winnie / wwwx3 GitHub README (Purple Pastel Theme) ===== -->
 
-<h1 align="center" style="color:#5b2c6f;">
+<h1 align="center" style="color:#8a5bbf;">
   <b>www • Hello, I’m Winnie ~!</b>
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fis%2Fview%2Fpixel-cat-summer-days-city-twool-gif-12545591469613850331&psig=AOvVaw0oht-wUrswWzfYi-JBYku4&ust=1763003980513000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDqlOLT65ADFQAAAAAdAAAAABAK" title="purple_car">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fis%2Fview%2Fpixel-cat-summer-days-city-twool-gif-12545591469613850331&psig=AOvVaw0oht-wUrswWzfYi-JBYku4&ust=1763003980513000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDqlOLT65ADFQAAAAAdAAAAABAK" width="48" height="48" alt="purple_cat"/>
+  <a href="https://tenor.com/view/pixel-cat-summer-days-city-twool-gif-23644970" title="purple_cat">
+    <img src="https://media.tenor.com/nQyTVaiJbSMAAAAC/pixel-cat-summer-days.gif" width="48" height="48" alt="purple_cat"/>
   </a>
 </h1>
+
 
 <p align="center" style="color:#6b4b9a; font-size:14px;">
  AI & Robotics Engineer • Future Macquarie University AI and Cyber security (2026) • Building tech from problems.
