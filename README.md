@@ -21,8 +21,8 @@
 
 ## Quick Links
 - Portfolio / Projects: [github.com/wwwx3](https://github.com/wwwx3)  
-- Email: `winnie.ai@gmail.com` (use your new professional email)  
-- LinkedIn: (add link when you have it)
+- Email: `co.winniecyberai@gmail.com` 
+- Phone:  +66 92 268 0017
 
 ---
 
