@@ -26,8 +26,11 @@
 
 ---
 
-## Short Bio
-I’m Winnie — I love building hands-on projects in AI, robotics and sustainability. I participate in hackathons and real-world competitions, and I enjoy turning ideas into prototypes that help people.
+## About me
+I’m Chatnatda Ovatanupat (Winnie).
+I’ve always believed that engineering is another form of empathy , it’s about understanding what people need, and building solutions that make life better.
+My journey so far has led me through projects in AI health tech, robotics, and data-driven sustainability. Each one taught me something new about the world we live in,teamwork, how creativity could make a big impact, and perseverance.
+I’ll soon continue my studies at Macquarie University (AI & Cybersecurity, 2026) and hope to grow into someone who builds technology that listens, helps, and inspires people around me.
 
 ---
 
