@@ -1,5 +1,67 @@
-<h1 align="center"> www , Hellow World I'm Winnie ~! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=wwwx3&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwx3&theme=react&layout=compact" />
+<!-- ===== Winnie / wwwx3 GitHub README (Purple Pastel Theme) ===== -->
+<p align="center">
+  <img src="https://i.imgur.com/7yq7X5C.png" alt="banner" width="100%" style="border-radius:10px; background:linear-gradient(90deg,#f3e9ff,#e9e0ff); padding:8px;" />
 </p>
+
+<h1 align="center" style="color:#5b2c6f;">
+  <b>www • Hello, I’m Winnie ~!</b>
+  <a href="https://emoji.gg/emoji/7745-moon" title="moon">
+    <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="48" height="48" alt="moon"/>
+  </a>
+</h1>
+
+<p align="center" style="color:#6b4b9a; font-size:14px;">
+  Aspiring AI & Robotics Engineer • Future Macquarie University (2026) • Building tech that helps people & planet 🌷
+</p>
+
+<p align="center">
+  <!-- GitHub stats cards — theme chosen to match soft purple vibe -->
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=wwwx3&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Winnie's GitHub Stats" style="margin-right:8px;" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwx3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## ✨ Quick Links
+- Portfolio / Projects: [github.com/wwwx3](https://github.com/wwwx3)  
+- Email: `winnie.ai@gmail.com` (use your new professional email)  
+- LinkedIn: (add link when you have it)
+
+---
+
+## 💜 Short Bio
+I’m Winnie — I love building hands-on projects in AI, robotics and sustainability. I participate in hackathons and real-world competitions, and I enjoy turning ideas into prototypes that help people.
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, MicroPython, (add C/C++ if used), SQL  
+- **AI / CV:** OpenCV, TensorFlow / PyTorch (notebooks), Pictoblox ML (education)  
+- **Robotics:** ROS basics, sensors (GPS, gyro), ray-casting navigation concepts  
+- **Tools:** Git, CVAT (labeling), GitHub, VS Code, Roblox Studio (for game prototype)  
+- **Other:** Data collection, experiment design, model evaluation
+
+---
+
+## 🔭 Featured Projects
+> (Click a project name to open its repo — create repos with these exact names for links to work)
+
+- **[PWS-Robot](https://github.com/wwwx3/PWS-Robot)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
+  _Notes:_ hardware code (MicroPython), nav algorithm, simulation notes, dataset links.
+
+- **[Kneedee-AI](https://github.com/wwwx3/Kneedee-AI)** — Knee condition screening using camera images (150+ labeled images, validated with clinician feedback).  
+  _Includes:_ dataset structure, training script, evaluation results, sample images.
+
+- **[Kneeup-Game](https://github.com/wwwx3/Kneeup-Game)** — Educational Roblox game teaching knee health.  
+  _Includes:_ storyboard, game logic snippets, art assets.
+
+- **[PM25-Monitor](https://github.com/wwwx3/PM25-Monitor)** — App to monitor daily PM2.5 by region, with podcast-style morning notifications.  
+  _Includes:_ backend scripts, demo UI screenshots.
+
+- **[KIBO-RPC-AI](https://github.com/wwwx3/KIBO-RPC-AI)** — Vision & dataset work for Astrobee navigation challenge (CVAT labels, ArUco experiments).
+
+---
+
+## 📂 Recommended GitHub Repo Structure
+Create each major project as its own repo using these folders:
+
