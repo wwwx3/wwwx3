@@ -2,8 +2,8 @@
 
 <h1 align="center" style="color:#8a5bbf;">
   <b>www • Hello, I’m Winnie ~!</b>
-  <a href="https://tenor.com/view/pixel-cat-summer-days-city-twool-gif-23644970" title="purple_cat">
-    <img src="https://media.tenor.com/nQyTVaiJbSMAAAAC/pixel-cat-summer-days.gif" width="48" height="48" alt="purple_cat"/>
+<a href="https://emoji.gg/emoji/7745-moon" title="moon">
+    <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="48" height="48" alt="moon"/>
 </h1>
 
 
