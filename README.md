@@ -1,7 +1,4 @@
 <!-- ===== Winnie / wwwx3 GitHub README (Purple Pastel Theme) ===== -->
-<p align="center">
-  <img src="https://i.imgur.com/7yq7X5C.png" alt="banner" width="100%" style="border-radius:10px; background:linear-gradient(90deg,#f3e9ff,#e9e0ff); padding:8px;" />
-</p>
 
 <h1 align="center" style="color:#5b2c6f;">
   <b>www • Hello, I’m Winnie ~!</b>
@@ -11,7 +8,7 @@
 </h1>
 
 <p align="center" style="color:#6b4b9a; font-size:14px;">
-  Aspiring AI & Robotics Engineer • Future Macquarie University (2026) • Building tech that helps people & planet 🌷
+ AI & Robotics Engineer • Future Macquarie University (2026) • Building tech from problems.
 </p>
 
 <p align="center">
@@ -35,10 +32,10 @@ I’m Winnie — I love building hands-on projects in AI, robotics and sustainab
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, MicroPython, (add C/C++ if used), SQL  
+- **Languages:** Python, MicroPython,C,C++
 - **AI / CV:** OpenCV, TensorFlow / PyTorch (notebooks), Pictoblox ML (education)  
 - **Robotics:** ROS basics, sensors (GPS, gyro), ray-casting navigation concepts  
-- **Tools:** Git, CVAT (labeling), GitHub, VS Code, Roblox Studio (for game prototype)  
+- **Tools:** Git, CVAT (labeling), GitHub, VS Code, Unity , Blender 
 - **Other:** Data collection, experiment design, model evaluation
 
 ---
@@ -52,9 +49,6 @@ I’m Winnie — I love building hands-on projects in AI, robotics and sustainab
 - **[Kneedee-AI](https://github.com/wwwx3/Kneedee-AI)** — Knee condition screening using camera images (150+ labeled images, validated with clinician feedback).  
   _Includes:_ dataset structure, training script, evaluation results, sample images.
 
-- **[Kneeup-Game](https://github.com/wwwx3/Kneeup-Game)** — Educational Roblox game teaching knee health.  
-  _Includes:_ storyboard, game logic snippets, art assets.
-
 - **[PM25-Monitor](https://github.com/wwwx3/PM25-Monitor)** — App to monitor daily PM2.5 by region, with podcast-style morning notifications.  
   _Includes:_ backend scripts, demo UI screenshots.
 
@@ -62,6 +56,4 @@ I’m Winnie — I love building hands-on projects in AI, robotics and sustainab
 
 ---
 
-## 📂 Recommended GitHub Repo Structure
-Create each major project as its own repo using these folders:
 
