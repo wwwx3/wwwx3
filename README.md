@@ -43,7 +43,7 @@ I’ll soon continue my studies at Macquarie University (AI & Cybersecurity, 202
 
 ---
 
-## 🔭 Featured Projects
+## 🔭 Featured Projects (still hidden)
 > (Click a project name to open its repo — create repos with these exact names for links to work)
 
 - **[PWS-Robot](https://github.com/wwwx3/PWS-Robot)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
