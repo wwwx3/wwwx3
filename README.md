@@ -8,7 +8,7 @@
 
 
 <p align="center" style="color:#6b4b9a; font-size:14px;">
- AI & Robotics Engineer • Future Macquarie University AI and Cyber security (2026) • 
+ AI & Robotics Engineer • AI and Cyber security (2026) • 
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@
 I’m Chatnatda Ovatanupat (Winnie). <br>
 I’ve always believed that engineering is another form of empathy — it’s about understanding what people need and building solutions that make life better.
 Along with my love for coding and problem-solving, my journey so far has led me through projects in AI health technology, robotics, and data-driven sustainability. Each one has taught me something new — about teamwork, creativity, perseverance, and how innovation can make a big impact.
-I’ll soon continue my studies at Macquarie University (AI & Cybersecurity, 2026) and hope to grow into someone who builds technology that listens, helps, and inspires those around me.
 
 ---
 
@@ -43,7 +42,7 @@ I’ll soon continue my studies at Macquarie University (AI & Cybersecurity, 202
 
 ---
 
-## 🔭 Featured Projects (still hidden)
+## 🔭 Featured Projects (still hidden) & Updating
 > (Click a project name to open its repo — create repos with these exact names for links to work)
 
 - **[PWS-Robot](https://github.com/wwwx3/PWS-Robot)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
