@@ -56,9 +56,6 @@ I am especially interested in the intersection of artificial intelligence, biome
 - **[Kneedee-AI](https://github.com/wwwx3/Kneedee-AI)** — Knee condition screening using camera images (labeled images, validated with clinician feedback).  
   _Includes:_ dataset structure, training script, evaluation results, sample images.
 
-- **[PM25-Monitor](https://github.com/wwwx3/PM25-Monitor)** — App to monitor daily PM2.5 by region, with podcast-style morning notifications.  
-  _Includes:_ backend scripts, demo UI screenshots.
-
 - **[KIBO-RPC-AI](https://github.com/wwwx3/KIBO-JAZA-RPC/tree/main)** — Vision & dataset work for Astrobee navigation challenge (CVAT labels, ArUco experiments).
 
 ---
