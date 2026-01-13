@@ -28,16 +28,21 @@
 
 ## About me
 I’m Chatnatda Ovatanupat (Winnie). <br>
-I’ve always believed that engineering is another form of empathy — it’s about understanding what people need and building solutions that make life better.
-Along with my love for coding and problem-solving, my journey so far has led me through projects in AI health technology, robotics, and data-driven sustainability. Each one has taught me something new — about teamwork, creativity, perseverance, and how innovation can make a big impact.
+I believe engineering is not just about writing code or building machines; it is about understanding people, their problems, and designing systems that can truly help. My interest in technology grew from curiosity, but it became a purpose when I started working on real-world problems in healthcare, robotics, and environmental sustainability.
+
+Through projects like KNEEDEE (AI for knee health), autonomous agricultural robotics, and data-driven applications for public health, I have learned how engineering can be used as a tool for care, whether that means supporting doctors, reducing pollution, or improving everyday life. I enjoy working through challenges and real users, because that is where meaningful innovation happens.
+
+I am especially interested in the intersection of artificial intelligence, biomedical technology, and secure cyber-physical systems. I’m always looking for ways to make technology more responsible, reliable, and human-centered.
+
+**This GitHub is a record of that journey: experiments, prototypes, research, and systems I’ve built while learning how to turn ideas into real, working technology.**
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, MicroPython,C,C++
+- **Languages:** Python, MicroPython, C, C ++
 - **AI / CV:** OpenCV, TensorFlow / PyTorch (notebooks), Pictoblox ML (education)  
-- **Robotics:** ROS basics, sensors (GPS, gyro), ray-casting navigation concepts  
-- **Tools:** Git, CVAT (labeling), GitHub, VS Code, Unity , Blender 
+- **Robotics:** ROS basics, sensors (GPS, gyro), ray-casting navigation concepts, Raspberry Pi, Esp32, Arduino
+- **Tools:** Git, CVAT (labeling), GitHub, VS Code, Unity, Blender 
 - **Other:** Data collection, experiment design, model evaluation
 
 ---
@@ -48,7 +53,7 @@ Along with my love for coding and problem-solving, my journey so far has led me 
 - **[PWS-Robot](https://github.com/wwwx3/PWS-Robot)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
   _Notes:_ hardware code (MicroPython), nav algorithm, simulation notes, dataset links.
 
-- **[Kneedee-AI](https://github.com/wwwx3/Kneedee-AI)** — Knee condition screening using camera images (150+ labeled images, validated with clinician feedback).  
+- **[Kneedee-AI](https://github.com/wwwx3/Kneedee-AI)** — Knee condition screening using camera images (labeled images, validated with clinician feedback).  
   _Includes:_ dataset structure, training script, evaluation results, sample images.
 
 - **[PM25-Monitor](https://github.com/wwwx3/PM25-Monitor)** — App to monitor daily PM2.5 by region, with podcast-style morning notifications.  
