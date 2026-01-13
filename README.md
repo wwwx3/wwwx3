@@ -50,7 +50,7 @@ I am especially interested in the intersection of artificial intelligence, biome
 ## 🔭 Featured Projects (still hidden) & Updating
 > (Click a project name to open its repo — create repos with these exact names for links to work)
 
-- **[PWS-Robot](https://github.com/wwwx3/PWS-Robot)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
+- **[PWS-Robot](https://github.com/wwwx3/PWS-Robot-)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
   _Notes:_ hardware code (MicroPython), nav algorithm, simulation notes, dataset links.
 
 - **[Kneedee-AI](https://github.com/wwwx3/Kneedee-AI)** — Knee condition screening using camera images (labeled images, validated with clinician feedback).  
