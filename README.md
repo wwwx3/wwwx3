@@ -12,9 +12,7 @@
 </p>
 
 <p align="center">
-  <!-- GitHub stats cards — theme chosen to match soft purple vibe -->
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=wwwx3&theme=buefy&show_icons=true&include_all_commits=true&hide_border=true" alt="Winnie's GitHub Stats" style="margin-right:8px;" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwx3&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+  <img height="140" src="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&screen_effect=true&theme=rainbow" alt="My Github Stats" />
 </p>
 
 ---
