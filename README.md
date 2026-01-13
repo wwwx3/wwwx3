@@ -11,9 +11,9 @@
  AI & Robotics Engineer • AI and Cyber security (2026) • 
 </p>
 
-<p align="center">
-  <img height="140" src="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&screen_effect=true&theme=rainbow" alt="My Github Stats" />
-</p>
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&theme=rainbow">
+</picture>
 
 ---
 
