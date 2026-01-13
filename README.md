@@ -12,7 +12,9 @@
 </p>
 
 <picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&theme=rainbow">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&theme=summer">
 </picture>
 
 ---
