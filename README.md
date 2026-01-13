@@ -47,7 +47,7 @@ I am especially interested in the intersection of artificial intelligence, biome
 
 ---
 
-## 🔭 Featured Projects (still hidden) & Updating
+## 🔭 Featured Projects 
 > (Click a project name to open its repo — create repos with these exact names for links to work)
 
 - **[PWS-Robot](https://github.com/wwwx3/PWS-Robot-)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
