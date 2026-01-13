@@ -39,7 +39,7 @@ I am especially interested in the intersection of artificial intelligence, biome
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, MicroPython, C, C ++
+- **Languages:** Python, MicroPython, C, C ++ , HTML , CSS
 - **AI / CV:** OpenCV, TensorFlow / PyTorch (notebooks), Pictoblox ML (education)  
 - **Robotics:** ROS basics, sensors (GPS, gyro), ray-casting navigation concepts, Raspberry Pi, Esp32, Arduino
 - **Tools:** Git, CVAT (labeling), GitHub, VS Code, Unity, Blender 
