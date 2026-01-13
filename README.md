@@ -59,7 +59,7 @@ I am especially interested in the intersection of artificial intelligence, biome
 - **[PM25-Monitor](https://github.com/wwwx3/PM25-Monitor)** — App to monitor daily PM2.5 by region, with podcast-style morning notifications.  
   _Includes:_ backend scripts, demo UI screenshots.
 
-- **[KIBO-RPC-AI](https://github.com/wwwx3/KIBO-RPC-AI)** — Vision & dataset work for Astrobee navigation challenge (CVAT labels, ArUco experiments).
+- **[KIBO-RPC-AI](https://github.com/wwwx3/KIBO-JAZA-RPC/tree/main)** — Vision & dataset work for Astrobee navigation challenge (CVAT labels, ArUco experiments).
 
 ---
 
