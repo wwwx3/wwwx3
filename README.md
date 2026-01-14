@@ -11,12 +11,6 @@
  AI & Robotics Engineer • AI and Cyber security (2026) • 
 </p>
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<wwwx3>&theme=summer">
-</picture>
-
 ---
 
 ## Quick Links
@@ -48,7 +42,7 @@ I am especially interested in the intersection of artificial intelligence, biome
 ---
 
 ## 🔭 Featured Projects 
-> (Click a project name to open its repo — create repos with these exact names for links to work)
+> (Click a project name to open its repo)
 
 - **[PWS-Robot](https://github.com/wwwx3/PWS-Robot-)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
   _Notes:_ hardware code (MicroPython), nav algorithm, simulation notes, dataset links.
