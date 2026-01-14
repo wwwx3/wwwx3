@@ -47,7 +47,7 @@ I am especially interested in the intersection of artificial intelligence, biome
 - **[PWS-Robot](https://github.com/wwwx3/PWS-Robot-)** — Autonomous sugarcane field robot (gyro & GPS → Cartesian navigation, ray-casting boundaries).  
   _Notes:_ hardware code (MicroPython), nav algorithm, simulation notes, dataset links.
 
-- **[Kneedee-AI](https://github.com/wwwx3/KNEEDEE/tree/main)** — Knee condition screening using camera images (labeled images, validated with clinician feedback).  
+- **[Kneedee-AI](https://github.com/wwwx3/KNEEDEE)** — Knee condition screening using camera images (labeled images, validated with clinician feedback).  
   _Includes: The full AI training pipeline ('.sb3').
 
 - **[KIBO-RPC-AI](https://github.com/wwwx3/KIBO-JAZA-RPC/tree/main)** — Vision & dataset work for Astrobee navigation challenge (CVAT labels, ArUco experiments).
