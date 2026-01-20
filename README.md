@@ -22,7 +22,7 @@
 
 ## About me
 I’m Chatnatda Ovatanupat (Winnie). <br>
-I believe engineering is not just about writing code or building machines, it is about understanding people, their problems, and designing systems that can truly help. My interest in technology grew from curiosity, but it became a purpose when I started working on real-world problems in healthcare, robotics, and environmental sustainability.
+I believe engineering is not just about writing code or building machines. It is about understanding people, their problems, and designing systems that can truly help. My interest in technology grew from curiosity, but it became a purpose when I started working on real-world problems in healthcare, robotics, and environmental sustainability.
 
 Through projects like KNEEDEE (AI for knee health), autonomous agricultural robotics, and data-driven applications for public health, I have learned how engineering can be used as a tool for care, whether that means supporting doctors, reducing pollution, or improving everyday life. I enjoy working through challenges and real users, because that is where meaningful innovation happens.
 
